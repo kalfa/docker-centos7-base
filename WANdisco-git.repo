@@ -1,0 +1,5 @@
+[WANdisco-git]
+name=WANdisco Replicated Git
+baseurl=http://opensource.wandisco.com/replication/rhel/$releasever/git/$basearch
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-WANdisco

@@ -1,0 +1,6 @@
+[agileanalog]
+name=Agile Analog CentOS 7 Repo
+baseurl=https://rpm.aws.agileanalog.com/
+enabled=1
+gpgcheck=0
+sslverify=0
